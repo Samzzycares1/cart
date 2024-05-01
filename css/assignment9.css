@@ -1,0 +1,80 @@
+body{
+    background-color: black;
+}
+table{
+    background-color: black;
+    padding: 10px;
+    width: 900px;
+    height: 500px;
+    margin: auto;
+    border-collapse: collapse;
+    color: white;
+    
+}
+.stan{
+    border-left: 5px solid purple;
+    border-right: 5px solid purple;
+}
+ th.stan{
+  background-color: rgb(18, 252, 233);
+}
+.ul{
+    background-color: rgba(74, 74, 176, 0.829);
+}
+.sim{
+    background-color: rgb(240, 240, 8);
+}
+td{
+    border: none;
+    border-bottom: 2px solid purple;
+    text-align: center;
+    color: rgb(117, 116, 116);
+} 
+p{
+    color: white;
+    font-size: 38px;
+    margin-top: 0px;
+}
+span{
+    font-size: 88px;
+}
+button{
+    background-color: black;
+    color: white;
+    border: none;
+    height: 30px;
+    font-size: 17px;
+    font-weight: 300;
+    
+}
+
+/* button :visited :link{ 
+    color: blue;
+} */
+button :hover{
+    color: yellow;
+}
+.tr{
+    
+    vertical-align: top;
+   height: 60px;
+    padding-top: 20px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+th{
+    font-family: 'Franklin Gothic Medium', 
+    'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 100;
+    
+    height: 70px;
+    align-content: baseline;
+}
+
+h5{
+    margin-top: -40px;
+}
